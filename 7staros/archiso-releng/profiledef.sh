@@ -1,0 +1,5 @@
+iso_name="7STAROS"
+iso_label="7STAROS_$(date +%Y%m)"
+iso_publisher="7STAROS Project"
+iso_application="7STAROS Minimal Linux System"
+iso_version="1.0"

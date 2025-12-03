@@ -1,0 +1,19 @@
+#!/bin/bash
+
+case "$1" in
+    -H|--help)
+        echo "===== 7STAROS TERX COMMAND HELP ====="
+        echo " terx -H   Show this help menu"
+        echo " terx -l   List all available commands"
+        ;;
+    -l|--list)
+        echo "===== 7STAROS COMMAND LIST ====="
+        echo " terx -H"
+        echo " terx -l"
+        echo " reboot"
+        echo " shutdown"
+        ;;
+    *)
+        echo "Unknown argument. Use 'terx -H'."
+        ;;
+esac
