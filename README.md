@@ -1,2 +1,2 @@
 # 7STAROS
-Help About 7STAROS.
+Official REPO About 7STAROS.
